@@ -19248,5 +19248,12 @@
     "author": "Santi Younger",
     "description": "Calculate reading time estimates for selected text using your own reading speed in Words Per Minute.",
     "repo": "santiyounger/wpm-reading-time"
+  },
+  {
+    "id": "lumen-ai-assistant",
+    "name": "Lumen",
+    "author": "rick",
+    "description": "AI assistant for Obsidian, inspired by Notion AI. Summarize, translate, analyze, polish — and write the result back to your note. Supports Claude, GPT, MiniMax, and Kimi.",
+    "repo": "chinoryunqin/lumen-ai-assistant"
   }
 ]
