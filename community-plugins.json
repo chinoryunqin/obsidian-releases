@@ -24022,5 +24022,12 @@
     "author": "kuboon",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Open prev/next note based on explorer sorting order",
     "repo": "kuboon/daily-nav"
+  },
+  {
+    "id": "meeting-scribe-ai",
+    "name": "Meeting Scribe AI",
+    "author": "Rick",
+    "description": "This plugin has not been manually reviewed by Obsidian staff. Record audio, transcribe with Doubao Speech, polish transcripts, and generate meeting minutes.",
+    "repo": "chinoryunqin/ObMeeting"
   }
 ]
